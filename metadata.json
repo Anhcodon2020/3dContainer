@@ -1,0 +1,6 @@
+{
+  "name": "OptiLoad 3D - Ứng Dụng Tối Ưu Đóng Hàng Pallet & Cân Bằng Container",
+  "description": "Phần mềm tính toán mô phỏng 3D xếp pallet vào container tối ưu: tự động tính CBM, số kg, tải trọng, phân bổ trọng tâm CoG và quản lý đa dạng loại container.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
